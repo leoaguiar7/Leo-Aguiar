@@ -1,0 +1,1 @@
+Notas sobre GitHub: - git add: Adiciona ficheiros ao staging area. - git commit:
